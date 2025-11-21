@@ -12,8 +12,34 @@
 -  Main priority od this project is to ensure a strong and stable network connection with high security.
 ### Scope of Work
 1. Site Survey:
-   - Conduct full site survey to determine the places where Access Points can be placed.
-   - Provide maps, coverage predictions and planning
-   - Also suggest corrective measures
+ - Conduct full site survey to determine the places where Access Points can be placed.
+ - Provide maps, coverage predictions and planning
+ - Also suggest corrective measures
 2. Installation and Configuration:
-  - 
+  - Install enterprise -grade Access points that supports latest Wi-Fi
+  - Configure SSID and Vlans
+  - Configure WPA3 security and MAC filtering
+3. Intergrate with existing network
+  - Ensure proper VLAN tagging, IP and DHCP
+  - Also provide documentation
+4. Ongoing maintenance and support
+  - Provide monthly reports
+  - Offer security and other firmware updates
+### Functional Requirements
+- Wireless coverage coverage across all office areas
+- Support latest wireless standards
+- Able to handle large number of device connections
+### Security and Management Requirements
+- WPA3 support for all networks
+- Role-based access for network administrators
+- Centralized management for monitoring performance
+- MAC address filtering where applicable
+### Performance Requirements
+- Access points supports high number of devices
+- Indicate recommended channel widths
+- Provide expected throughput per Access point
+### Vendor Qualifications
+- Minimum two year of experience in wireless networking
+- Completed at least five similar projects
+- Need certifications such as Cisco, CompTIA Network+
+- Able to provide future enhancement suggestions for MITT network
