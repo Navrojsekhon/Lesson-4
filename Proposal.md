@@ -43,3 +43,30 @@
 - Completed at least five similar projects
 - Need certifications such as Cisco, CompTIA Network+
 - Able to provide future enhancement suggestions for MITT network
+### Pricing
+  - Need detailed hardware pricing
+  - installation labor pricing
+  - Annual maintenance and pricing
+  - Add-on services
+  ### Evaluation Criteria
+  Proposal will be evaluated based on:-
+  - Total cost
+  - Technical Quality
+  - Vendor Reputation
+  - Security Measures
+  - Ability to meet deployment timeline
+  ### Proposal Submission
+  - Proposal should be in PDF foramt
+  - Email proposal to (navrojsekhon@student.mitt.ca)
+  - Vendor must include conatct details
+  - Must confirm availability fo on-site work
+  ### Terms and Conditions
+  - Contract is one year and also can be renewed based on performance.
+  - Vendors must comply with security and confidentiality requirements.
+  - Warranty and liability limitations should be clearly outlined in the   proposal.
+
+We’re looking forward to reading through your proposal and creating with a partner who wants to help us overachieve our security goals.
+
+Wishing you all the best,\
+Navroj Sekhon\
+MITT CEO
